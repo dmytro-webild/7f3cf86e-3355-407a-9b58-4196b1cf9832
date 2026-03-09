@@ -55,10 +55,10 @@ export default function LandingPage() {
           ]}
           slides={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg",              imageAlt: "Interior elegante do salão de beleza"
+              imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg?_wi=1",              imageAlt: "Interior elegante do salão de beleza"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/high-angle-vanity-case-with-products_23-2149879978.jpg",              imageAlt: "Área de tratamento profissional"
+              imageSrc: "http://img.b2bpic.net/free-photo/high-angle-vanity-case-with-products_23-2149879978.jpg?_wi=1",              imageAlt: "Área de tratamento profissional"
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/young-girl-sport-outfits-posing-confidently_114579-21727.jpg",              imageAlt: "Equipa acolhedora e profissional"
@@ -102,17 +102,17 @@ export default function LandingPage() {
           gridVariant="two-columns-alternating-heights"
           features={[
             {
-              title: "Cabelo",              description: "Escova, corte, coloração e tratamentos profissionais com produtos de qualidade premium",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg",              imageAlt: "Serviço profissional de cabelo",              button: {
+              title: "Cabelo",              description: "Escova, corte, coloração e tratamentos profissionais com produtos de qualidade premium",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg?_wi=1",              imageAlt: "Serviço profissional de cabelo",              button: {
                 text: "Marcar Corte",                href: "#booking"
               },
             },
             {
-              title: "Unhas",              description: "Manicura e pedicura com design personalizado, gel duradouro e acabamento impecável",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-female-getting-her-nails-fixed-by-manicurist-inside-room-beauty-manicure-nails-hand-self-care_140725-65113.jpg",              imageAlt: "Serviço de unhas profissional",              button: {
+              title: "Unhas",              description: "Manicura e pedicura com design personalizado, gel duradouro e acabamento impecável",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-female-getting-her-nails-fixed-by-manicurist-inside-room-beauty-manicure-nails-hand-self-care_140725-65113.jpg?_wi=1",              imageAlt: "Serviço de unhas profissional",              button: {
                 text: "Marcar Unhas",                href: "#booking"
               },
             },
             {
-              title: "Cílios",              description: "Extensões de pestanas, lifting e tint para um olhar arrebatador e duradouro",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-bride-getting-ready-wedding_23-2149860802.jpg",              imageAlt: "Serviço de pestanas profissional",              button: {
+              title: "Cílios",              description: "Extensões de pestanas, lifting e tint para um olhar arrebatador e duradouro",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-bride-getting-ready-wedding_23-2149860802.jpg?_wi=1",              imageAlt: "Serviço de pestanas profissional",              button: {
                 text: "Marcar Pestanas",                href: "#booking"
               },
             },
@@ -147,19 +147,19 @@ export default function LandingPage() {
             {
               id: 2,
               title: "Ambiente Acolhedor",              description: "Equipa profissional e simpática que o trata como amiga — especialista em beleza e em fazer o seu dia",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg"
+                imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg?_wi=2"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/high-angle-vanity-case-with-products_23-2149879978.jpg"
+                imageSrc: "http://img.b2bpic.net/free-photo/high-angle-vanity-case-with-products_23-2149879978.jpg?_wi=2"
               },
             },
             {
               id: 3,
               title: "Serviços Completos",              description: "Cabelo, unhas, cílios, tratamentos faciais — tudo o que precisa numa única visita, num único lugar",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg"
+                imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg?_wi=2"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-female-getting-her-nails-fixed-by-manicurist-inside-room-beauty-manicure-nails-hand-self-care_140725-65113.jpg"
+                imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-female-getting-her-nails-fixed-by-manicurist-inside-room-beauty-manicure-nails-hand-self-care_140725-65113.jpg?_wi=2"
               },
             },
           ]}
@@ -175,22 +175,22 @@ export default function LandingPage() {
           useInvertedBackground={false}
           testimonials={[
             {
-              id: "1",              name: "Eliuza S., Cliente Verificada",              date: "Date: 15 Dezembro 2024",              tag: "Resultado Impecável",              title: "Apaixonada pelo resultado! Trabalho impecável... Perfeição define!",              quote: "Voltei e pedi o mesmo. Adorei! A rapariga que me fez o cabelo é muito simpática, dedicada e atenciosa aos detalhes. Voltarei com certeza. Recomendo!",              avatarSrc: "http://img.b2bpic.net/free-photo/young-lady-showing-thumbs-up-shirt-cardigan-looking-joyful-front-view_176474-110768.jpg",              avatarAlt: "Eliuza S.",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg"
+              id: "1",              name: "Eliuza S., Cliente Verificada",              date: "Date: 15 Dezembro 2024",              tag: "Resultado Impecável",              title: "Apaixonada pelo resultado! Trabalho impecável... Perfeição define!",              quote: "Voltei e pedi o mesmo. Adorei! A rapariga que me fez o cabelo é muito simpática, dedicada e atenciosa aos detalhes. Voltarei com certeza. Recomendo!",              avatarSrc: "http://img.b2bpic.net/free-photo/young-lady-showing-thumbs-up-shirt-cardigan-looking-joyful-front-view_176474-110768.jpg",              avatarAlt: "Eliuza S.",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg?_wi=3"
             },
             {
-              id: "2",              name: "Monica B., Cliente Verificada",              date: "Date: 12 Dezembro 2024",              tag: "Serviço Completo",              title: "As meninas são MARAVILHOSAS! Sai de lá tudo pronto para arrasar",              quote: "Entrei para fazer um simples corte e saí com muito mais! As raparigas foram sempre atenciosas, fizeram perguntas sobre o que eu realmente queria e o resultado foi perfeição.",              avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-woman-with-long-brown-hair-black-t-shirt-white-jacket_613910-8245.jpg",              avatarAlt: "Monica B.",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg"
+              id: "2",              name: "Monica B., Cliente Verificada",              date: "Date: 12 Dezembro 2024",              tag: "Serviço Completo",              title: "As meninas são MARAVILHOSAS! Sai de lá tudo pronto para arrasar",              quote: "Entrei para fazer um simples corte e saí com muito mais! As raparigas foram sempre atenciosas, fizeram perguntas sobre o que eu realmente queria e o resultado foi perfeição.",              avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-woman-with-long-brown-hair-black-t-shirt-white-jacket_613910-8245.jpg",              avatarAlt: "Monica B.",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-hair-salon_23-2150668429.jpg?_wi=4"
             },
             {
-              id: "3",              name: "Adriana O., Cliente Verificada",              date: "Date: 8 Dezembro 2024",              tag: "Profissionalismo Total",              title: "O MELHOR! Profissionalismo, acolhimento e simpatia... Perfeição!",              quote: "Procurava um lugar de confiança perto de casa e encontrei! Voltei várias vezes. O ambiente é acolhedor, as raparigas são profissionais e muito simpáticas. Sinceramente perfeito!",              avatarSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg",              avatarAlt: "Adriana O.",              imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg"
+              id: "3",              name: "Adriana O., Cliente Verificada",              date: "Date: 8 Dezembro 2024",              tag: "Profissionalismo Total",              title: "O MELHOR! Profissionalismo, acolhimento e simpatia... Perfeição!",              quote: "Procurava um lugar de confiança perto de casa e encontrei! Voltei várias vezes. O ambiente é acolhedor, as raparigas são profissionais e muito simpáticas. Sinceramente perfeito!",              avatarSrc: "http://img.b2bpic.net/free-photo/attractive-blond-business-woman-white-shirt-eyeglasses-crossed-arms-grey-background_613910-11786.jpg",              avatarAlt: "Adriana O.",              imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg?_wi=3"
             },
             {
-              id: "4",              name: "Joana P., Cliente Verificada",              date: "Date: 5 Dezembro 2024",              tag: "Qualidade Premium",              title: "Finalmente encontrei o meu salão! Qualidade e confiança",              quote: "Depois de experimentar vários salões, encontrei aqui o que procurava. Profissionalismo, qualidade e um ambiente que se sente como estar com amigas. Recomendo muito!",              avatarSrc: "http://img.b2bpic.net/free-photo/pretty-middle-aged-lady-tilting-head-leaning-index-finger-cute-tender-gazing-charmed-camera_176420-43901.jpg",              avatarAlt: "Joana P.",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-female-getting-her-nails-fixed-by-manicurist-inside-room-beauty-manicure-nails-hand-self-care_140725-65113.jpg"
+              id: "4",              name: "Joana P., Cliente Verificada",              date: "Date: 5 Dezembro 2024",              tag: "Qualidade Premium",              title: "Finalmente encontrei o meu salão! Qualidade e confiança",              quote: "Depois de experimentar vários salões, encontrei aqui o que procurava. Profissionalismo, qualidade e um ambiente que se sente como estar com amigas. Recomendo muito!",              avatarSrc: "http://img.b2bpic.net/free-photo/pretty-middle-aged-lady-tilting-head-leaning-index-finger-cute-tender-gazing-charmed-camera_176420-43901.jpg",              avatarAlt: "Joana P.",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-female-getting-her-nails-fixed-by-manicurist-inside-room-beauty-manicure-nails-hand-self-care_140725-65113.jpg?_wi=3"
             },
             {
-              id: "5",              name: "Rita M., Cliente Verificada",              date: "Date: 2 Dezembro 2024",              tag: "Experiência Completa",              title: "Excelente atendimento e resultados fantásticos!",              quote: "As raparigas são muito profissionais e atenciosas. Cada detalhe é cuidado com atenção. Deixo o meu cabelo e unhas sempre nos melhores cuidados. Top!",              avatarSrc: "http://img.b2bpic.net/free-photo/mature-woman-smiling_1149-601.jpg",              avatarAlt: "Rita M.",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-bride-getting-ready-wedding_23-2149860802.jpg"
+              id: "5",              name: "Rita M., Cliente Verificada",              date: "Date: 2 Dezembro 2024",              tag: "Experiência Completa",              title: "Excelente atendimento e resultados fantásticos!",              quote: "As raparigas são muito profissionais e atenciosas. Cada detalhe é cuidado com atenção. Deixo o meu cabelo e unhas sempre nos melhores cuidados. Top!",              avatarSrc: "http://img.b2bpic.net/free-photo/mature-woman-smiling_1149-601.jpg",              avatarAlt: "Rita M.",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-bride-getting-ready-wedding_23-2149860802.jpg?_wi=2"
             },
             {
-              id: "6",              name: "Carla T., Cliente Verificada",              date: "Date: 28 Novembro 2024",              tag: "Ambiente Acolhedor",              title: "Um lugar onde se sente em casa! Muito simpáticas e dedicadas",              quote: "Chegava-me tensa e saía completamente relaxada. O ambiente, o atendimento, tudo é pensado para a sua comodidade. Voltei e vou voltar sempre!",              avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-thankful-young-woman-honored-embarrassed_1262-14837.jpg",              avatarAlt: "Carla T.",              imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg"
+              id: "6",              name: "Carla T., Cliente Verificada",              date: "Date: 28 Novembro 2024",              tag: "Ambiente Acolhedor",              title: "Um lugar onde se sente em casa! Muito simpáticas e dedicadas",              quote: "Chegava-me tensa e saía completamente relaxada. O ambiente, o atendimento, tudo é pensado para a sua comodidade. Voltei e vou voltar sempre!",              avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-thankful-young-woman-honored-embarrassed_1262-14837.jpg",              avatarAlt: "Carla T.",              imageSrc: "http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg?_wi=4"
             },
           ]}
         />
@@ -222,7 +222,7 @@ export default function LandingPage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           buttonText="Enviar Pedido de Marcação"
-          imageSrc="http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/waiting-room-with-chairs-blurred_1203-1402.jpg?_wi=5"
         />
       </div>
 
