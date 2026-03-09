@@ -61,7 +61,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/high-angle-vanity-case-with-products_23-2149879978.jpg?_wi=1",              imageAlt: "Área de tratamento profissional"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/young-girl-sport-outfits-posing-confidently_114579-21727.jpg",              imageAlt: "Equipa acolhedora e profissional"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiZnd5NCa291q0eaXnZNDSuMOO/uploaded-1773078083801-hqiq7sit.png",              imageAlt: "Equipa acolhedora e profissional"
             },
           ]}
           autoplayDelay={5000}
